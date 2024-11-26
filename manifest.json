@@ -23,9 +23,13 @@
     }
   ],
   "web_accessible_resources": [
-  {
-    "resources": ["down.png"],
-    "matches": ["<all_urls>"]
-  }
-]
+    {
+      "resources": [
+        "down.png"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
 }
